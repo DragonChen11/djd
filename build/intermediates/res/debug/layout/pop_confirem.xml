@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_main"
+    android:layout_width="260dip"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_title"
+        style="@style/popDialogTitle"
+        android:text="您确定要删除吗？" />
+
+	<ScrollView
+    	android:id="@+id/sv_content"
+	    android:layout_width="fill_parent"
+	    android:layout_height="0.0dip"
+	    android:layout_weight="1" >
+	
+	    <TextView
+	        android:id="@+id/tv_content"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_margin="16.0dip"
+	        android:gravity="center"
+	        android:lineSpacingMultiplier="1.2"
+	        android:minHeight="54.0dip"
+	        android:textColor="#ff333333"
+	        android:textSize="16.0sp"
+	        android:visibility="gone" />
+	</ScrollView>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16.0dip" >
+
+        <Button
+            android:id="@+id/btn_no"
+            android:layout_width="fill_parent"
+            android:layout_height="36.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/pop_btn_no"
+            android:text="取消"
+            android:textColor="#333"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:id="@+id/dlg_txv_btnDivider"
+            android:layout_width="16.0dip"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_yes"
+            android:layout_width="fill_parent"
+            android:layout_height="36.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/pop_btn_yes"
+            android:text="确认"
+            android:textColor="#fff"
+            android:textSize="16.0sp" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/layout/pop_confirem.xml -->

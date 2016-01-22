@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/global_topbar_press2" android:state_checked="true" android:state_enabled="true"/>
+    <item android:drawable="@drawable/global_topbar2" android:state_checked="false" android:state_enabled="true"/>
+
+</selector>
+<!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/drawable/global_selector_topbar_center2.xml -->

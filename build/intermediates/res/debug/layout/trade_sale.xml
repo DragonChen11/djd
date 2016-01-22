@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+    <include
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/global_widget_topbar" />
+     <ImageView android:layout_width="match_parent"
+         android:layout_height="1dp"
+         android:background="@drawable/logs_leaveword_fg"/>
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="-1dp"
+        android:background="@color/white"
+        android:horizontalSpacing="1dp"
+        android:listSelector="@null"
+        android:numColumns="4"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="1dp" >
+    </GridView>
+
+     <ImageView android:layout_width="match_parent"
+         android:layout_height="1dp"
+         android:background="@drawable/logs_leaveword_fg"/>
+    <include layout="@layout/global_listview_layout_pull_refresh" />
+
+</LinearLayout>
+<!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/layout/trade_sale.xml -->

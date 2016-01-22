@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    
+
+</LinearLayout>
+<!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/layout/global_bottom.xml -->

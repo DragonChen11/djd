@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:state_pressed="true" android:drawable="@drawable/btn_no_pressed" />
+    <item android:state_focused="false" android:state_pressed="true" android:drawable="@drawable/btn_no_pressed" />
+    <item android:state_focused="true" android:drawable="@drawable/btn_no_focused" />
+    <item android:state_focused="false" android:drawable="@drawable/btn_no_normal" />
+</selector><!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/drawable/pop_btn_no.xml -->

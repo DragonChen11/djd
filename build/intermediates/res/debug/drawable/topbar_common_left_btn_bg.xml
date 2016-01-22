@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/topbar_common_btn_pressed_left_bg" android:state_pressed="true"/>
+    <item android:drawable="@color/transparent"/>
+
+</selector><!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/drawable/topbar_common_left_btn_bg.xml -->

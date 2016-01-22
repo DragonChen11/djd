@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item>
+    <shape>
+        <solid android:color="#f0F4F4F4" />
+        <corners android:radius="8dp" /> 
+    </shape>
+  </item>
+</layer-list>
+<!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/drawable/nl_progress_dialog_bg.xml -->

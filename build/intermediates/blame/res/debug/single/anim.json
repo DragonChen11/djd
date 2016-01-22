@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up_in.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\slide_up_in.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\exploded-aar\\djd\\pull_refresh_library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\topbar_number_scale_out.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\topbar_number_scale_out.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\jiggle.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\jiggle.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\menu_out.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\menu_out.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out2.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_up_out2.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\exploded-aar\\djd\\pull_refresh_library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\option_leave_from_bottom.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\option_leave_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\progress_round.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\progress_round.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\topbar_number_scale_in.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\topbar_number_scale_in.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\exploded-aar\\djd\\pull_refresh_library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\praise_cancel.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\praise_cancel.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_refresh.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\rotate_refresh.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\fade2.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\fade2.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\exploded-aar\\djd\\pull_refresh_library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in2.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_up_in2.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\option_entry_from_bottom.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\option_entry_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\icon_jiggle.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\icon_jiggle.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\menu_in.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\menu_in.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\build\\intermediates\\res\\merged\\debug\\anim\\praise_save.xml",
+        "source": "E:\\android-studio-ide-143.2443734-windows\\Zip(Git)\\djd\\djd\\src\\main\\res\\anim\\praise_save.xml"
+    }
+]

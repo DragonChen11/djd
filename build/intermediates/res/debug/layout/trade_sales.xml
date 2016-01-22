@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+     <include
+        android:id="@+id/include_global_topbar"
+        layout="@layout/global_widget_topbar" />
+     <include layout="@layout/global_listview_layout_pull_refresh" />
+
+</LinearLayout>
+<!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/layout/trade_sales.xml -->

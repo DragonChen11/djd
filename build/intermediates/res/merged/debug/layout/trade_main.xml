@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/linear_group"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <RadioGroup
+            android:id="@+id/rdg"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rdb_first"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/global_selector_topbar_center2"
+                android:button="@null"
+                android:checked="true"
+                android:gravity="center"
+                android:text="点点"
+                android:textColor="@drawable/rbtn_text_selector2"
+                android:textSize="23sp" />
+
+            <RadioButton
+                android:layout_width="1dp"
+                android:layout_height="12dp"
+                android:layout_marginLeft="-1dp"
+                android:layout_marginRight="-1dp"
+                android:background="#C5C5C5"
+                android:button="@null" />
+
+            <RadioButton
+                android:id="@+id/rdb_second"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/global_selector_topbar_center2"
+                android:button="@null"
+                android:gravity="center"
+                android:text="订单"
+                android:textColor="@drawable/rbtn_text_selector2"
+                android:textSize="23sp" />
+
+            <RadioButton
+                android:layout_width="1dp"
+                android:layout_height="12dp"
+                android:layout_marginLeft="-1dp"
+                android:layout_marginRight="-1dp"
+                android:background="#C5C5C5"
+                android:button="@null" />
+
+            <RadioButton
+                android:id="@+id/rdb_third"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/global_selector_topbar_center2"
+                android:button="@null"
+                android:gravity="center"
+                android:text="我的"
+                android:textColor="@drawable/rbtn_text_selector2"
+                android:textSize="23sp" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/linear_group"
+        android:orientation="vertical" >
+
+        <TabHost
+            android:id="@android:id/tabhost"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:id="@+id/linearlayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent" />
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </TabHost>
+    </LinearLayout>
+
+</RelativeLayout>

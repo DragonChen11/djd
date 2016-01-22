@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 选中 -->
+    <item android:state_checked="true" android:drawable="@drawable/cb_login_back2" />
+    <!-- 未选中 -->    
+    <item android:state_checked="false" android:drawable="@drawable/cb_login_back1" />
+</selector><!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/drawable/cb_login_back.xml -->

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_focused="true" android:color="@color/white"/>
+    <item android:state_pressed="true" android:color="@color/red"/>
+    <item android:color="@color/white"/>
+</selector>
+<!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/drawable/text_color_selector2.xml -->

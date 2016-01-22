@@ -1,0 +1,2 @@
+E:\android-studio-ide-143.2443734-windows\Zip(Git)\djd\djd\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\ksy\djd\mainpanel\GridViewAdapter.class
+E:\android-studio-ide-143.2443734-windows\Zip(Git)\djd\djd\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\ksy\djd\mainpanel\MainPanelActivity.class

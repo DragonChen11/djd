@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <include
+        android:id="@+id/include_global_topbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        layout="@layout/global_widget_topbar" />
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_panel"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/include_global_topbar"
+        android:layout_above="@+id/rl_rb"
+        />
+
+    <RelativeLayout
+        android:id="@+id/rl_rb"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        >
+        <RadioGroup
+            android:id="@+id/activity_group_radioGroup"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@drawable/panel_bottom_bg"
+            android:orientation="horizontal"
+            android:paddingBottom="2dip"
+            android:paddingTop="2dip">
+
+            <RadioButton
+                android:id="@+id/radioButton0"
+                style="@style/list_radiobutton"
+                android:background="@drawable/panel_radiobutton_message_bg"
+                android:checked="true" />
+
+            <RadioButton
+                android:id="@+id/radioButton1"
+                style="@style/list_radiobutton"
+                android:background="@drawable/panel_radiobutton_message_bg" />
+
+            <RadioButton
+                android:id="@+id/radioButton2"
+                style="@style/list_radiobutton"
+                android:background="@drawable/panel_radiobutton_message_bg" />
+
+            <RadioButton
+                android:id="@+id/radioButton3"
+                style="@style/list_radiobutton"
+                android:background="@drawable/panel_radiobutton_message_bg" />
+        </RadioGroup>
+    </RelativeLayout>
+
+
+</RelativeLayout>

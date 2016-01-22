@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="topbar_pressed_color">#18b4ed</color>
+    <color name="white">#ffffff</color>
+    <color name="login_bottom_text_color">#dbf19e</color>
+<!--   白色 
+ -->
+    <color name="ivory">#fffff0</color>
+<!--   象牙色 
+ -->
+    <color name="lightyellow">#ffffe0</color>
+<!--   亮黄色 
+ -->
+    <color name="yellow">#ffff00</color>
+<!--   黄色 
+ -->
+    <color name="orange">#ffa500</color>
+    <color name="orangered">#ff4500</color>
+<!--   红橙色 
+ -->
+    <color name="deeppink">#ff1493</color>
+<!--   深粉红色 
+ -->
+
+    <color name="red">#ff0000</color>
+<!--   红色 
+ -->
+
+    <color name="beige">#f5f5dc</color>
+<!--   米色 
+ -->
+    <color name="wheat">#f5deb3</color>
+<!--   浅黄色 
+ -->
+    <color name="sandybrown">#f4a460</color>
+<!--   沙褐色 
+ -->
+    <color name="azure">#f0ffff</color>
+<!--   天蓝色 
+ -->
+    <color name="honeydew">#f0fff0</color>
+<!--   蜜色 
+ -->
+
+    <color name="gainsboro">#dcdcdc</color>
+<!--   淡灰色 
+ -->
+    <color name="plain">#E0E0E0</color>  <!-- 浅白色 -->
+    <color name="orchid">#da70d6</color>
+<!--   淡紫色 
+ -->
+    <color name="thistle">#d8bfd8</color>
+<!--   蓟色 
+ -->
+    <color name="lightgray">#d3d3d3</color>
+<!--   亮灰色 
+ -->
+
+    <color name="chocolate">#d2691e</color>
+<!--   巧可力色 
+ -->
+
+    <color name="mediumvioletred">#c71585</color>
+<!--   中紫罗兰色 
+ -->
+    <color name="silver">#c0c0c0</color>
+<!--   银色 
+ -->
+    <color name="darkkhaki">#bdb76b</color>
+<!--   暗黄褐色 
+ -->
+    <color name="rosybrown">#bc8f8f</color>
+<!--   褐玫瑰红 
+ -->
+    <color name="mediumorchid">#ba55d3</color>
+<!--   中粉紫色 
+ -->
+    <color name="darkgoldenrod">#b8860b</color>
+<!--   暗金黄色 
+ -->
+    <color name="firebrick">#b22222</color>
+<!--   火砖色 
+ -->
+    <color name="powderblue">#b0e0e6</color>
+<!--   粉蓝色 
+ -->
+    <color name="lightsteelblue">#b0c4de</color>
+<!--   亮钢兰色 
+ -->
+    <color name="paleturquoise">#afeeee</color>
+<!--   苍宝石绿 
+ -->
+    <color name="greenyellow">#adff2f</color>
+<!--   黄绿色 
+ -->
+
+    <color name="darkgray">#a9a9a9</color>
+<!--   暗灰色 
+ -->
+    <color name="darkgrey">#a9a9a9</color>
+<!--   暗灰色 
+ -->
+    <color name="brown">#a52a2a</color>
+<!--   褐色 
+ -->
+
+    <color name="darkred">#8b0000</color>
+<!--   暗红色 
+ -->
+    <color name="blueviolet">#8a2be2</color>
+<!--   紫罗兰蓝色 
+ -->
+    <color name="lightskyblue">#87cefa</color>
+<!--   亮天蓝色 
+ -->
+    <color name="skyblue">#87ceeb</color>
+<!--   天蓝色 
+ -->
+    <color name="gray">#808080</color>
+<!--   灰色 
+ -->
+    <color name="olive">#808000</color>
+<!--   橄榄色 
+ -->
+    <color name="purple">#800080</color>
+<!--   紫色 
+ -->
+    <color name="maroon">#800000</color>
+<!--   粟色 
+ -->
+    <color name="aquamarine">#7fffd4</color>
+    <color name="black">#000000</color>
+<!--   黑色 
+ -->
+    <color name="blue">#2fa4da</color>
+    <color name="easygray">#BC8F8F </color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_overlay">#66000000</color>
+    <drawable name="lv_focused">#ececec</drawable>
+    <drawable name="lv_perssed">#DEE0E0</drawable>
+    <drawable name="transparent_perssed">#64DEE0E0</drawable>
+    <drawable name="darkgray">#FF808080</drawable>
+    <drawable name="mygreen">#daf4eb</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="white">#FFFFFFFF</drawable>
+    <drawable name="blue">#770000ff</drawable>
+    <drawable name="divider">#FFD8DAD9</drawable>
+    <drawable name="grade_parent_line">#cdcccc</drawable>
+    <drawable name="dual_line">#E3EEF4</drawable>
+    <drawable name="work_bg">#FEF8C8</drawable>
+    <drawable name="divider_yxt">#2A7BB2</drawable>
+    <drawable name="gridview_item_selected">#E4E4E4</drawable>
+    <drawable name="user_header_selected">#77000000</drawable>
+    <drawable name="panel_card_divider">#44B6FF</drawable>
+    <drawable name="panel_time_line_item_normal_bg">#EEE</drawable>
+    <drawable name="content_divider">#CCC</drawable>
+
+    <color name="album_name_color">#37383a</color>
+
+    <color name="translucent_dark">#99000000</color>
+    <color name="translucenter_dark">#bf000000</color>
+
+    <color name="bright_foreground_dark">#ffffffff</color>
+
+    <color name="mediumseagreen">#FF3cb371</color>
+    <color name="forestgreen">#FF228b22</color>
+    <color name="tv_topBar">#989898</color>
+    <color name="click_color">#812e00</color>
+    <color name="work_green">#4AAA1F</color>
+    <color name="work_red">#FE002F</color>
+
+    <color name="list_divider">#cac9c9</color>
+    <color name="list_item_bg_click">#DEE0E0</color>
+    <color name="list_item_bg_normal">#000000</color>
+
+    <color name="green">#ff00ff00</color>
+
+    <color name="disable_color">#a2a4a3</color>
+    <color name="edit_color">#000000</color>
+
+    <color name="qianhui">#888888</color>
+    <color name="read">#888888</color>
+
+    <color name="curriculum_blue_pressed">#ff0088d5</color>
+    <color name="curriculum_blue_normal">#ff6abdf4</color>
+    <color name="curriculum_orange_pressed">#ffe27700</color>
+    <color name="curriculum_orange_normal">#fffeb261</color>
+    <color name="curriculum_green_pressed">#ff5bac00</color>
+    <color name="curriculum_green_normal">#ff9ad55c</color>
+
+    <color name="cpb_grey">#ffdedede</color>
+    <color name="cpb_blue">#ff0099cc</color>
+    <color name="cpb_blue_dark">#ff00719b</color>
+    <color name="cpb_red">#ffff4444</color>
+    <color name="cpb_red_dark">#ffcd3a3a</color>
+    <color name="cpb_green">#ff99cc00</color>
+    <color name="cpb_green_dark">#ff6d9b00</color>
+    <color name="cpb_white">@android:color/white</color>
+
+    <color name="dark_red">#c00000</color>
+    <color name="app_text">#18b4ed</color>
+    <color name="setting_item_text">#ff333333</color>
+    <color name="chat_text">#ffffffff</color>
+    <color name="chat_text_right">#7d7d7d</color>
+    <color name="chat_time">#7d7d7d</color>
+    <color name="chat_time_divider">#CCCCCC</color>
+    <color name="chat_subhead_text">#999</color>
+    <color name="listview_item_selecter_bg">#DEE0E0</color>
+    <color name="pop_title_bg">#F0F5F9</color>
+    <color name="pop_divider">#ffc1c1c1</color>
+    <color name="pop_content">#ff333333</color>
+    <color name="pop_button_text">#ff666666</color>
+
+    <color name="grade_text_yellow">#FF7F00</color>
+    <color name="grade_text_green">#56a213</color>
+    <color name="grade_text_red">#FE0100</color>
+
+    <color name="work_list_background">#F9F9F9</color>
+    <color name="homework_orange">#FFAD01</color>
+    <color name="sub_title">#4f4d4e</color>
+    <color name="toast_bg">#bf000000</color>
+    <color name="title_transparent_bg">#64000000</color>
+    <color name="dark_gray">#646464</color>
+    <color name="foreground_color">#bfd8d7d2</color>
+    <color name="more_text_color">#ff51545a</color>
+    <color name="gray_bg">#f2f2f2</color>
+
+
+    <color name="panel_title">#5F646E</color>
+
+    <color name="slide_expand_item_bg">#C9C9C9</color>
+    <color name="sliding_expand_bar_bg">#F8F9FA</color>
+
+    <color name="listview_item_bg">#DEE0E0</color>
+</resources>

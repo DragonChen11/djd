@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:gravity="center"
+    android:background="@color/white"
+    >
+
+    <ImageView
+        android:id="@+id/item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white" />
+
+    <TextView
+        android:id="@+id/txt_notice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/noticedian"
+        android:gravity="center"
+        android:padding="3dip"
+        android:text="21"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:visibility="invisible" />
+
+</RelativeLayout><!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/layout/main_griditem_home.xml -->

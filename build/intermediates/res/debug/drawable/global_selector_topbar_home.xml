@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<selector xmlns:android="http://schemas.android.com/apk/res/android">    
+   
+            
+     <item android:state_pressed="true" android:drawable="@drawable/global_topbar_home_press" />
+     <item android:state_focused="true" android:drawable="@drawable/global_topbar_home_press" />    
+
+     <item android:drawable="@drawable/global_topbar_home"/>
+  
+</selector>   
+<!-- From: file:/E:/android-studio-ide-143.2443734-windows/Zip(Git)/djd/djd/src/main/res/drawable/global_selector_topbar_home.xml -->
